@@ -1,7 +1,5 @@
-# GestureRecognizer
-Recognizer for hand gestures for HackGT5
-
-<T>Hand Gesture Recognizer</T>
+# Hand Gesture Recognizer
+## Recognizer for hand gestures for HackGT5
 
 Recognizer for Hand gestures, specifically 0, 1, or 2. Data used only for these three values to show proof of concept behind developing such an app, but applications are far and wide from being able to dynamically type with hands, to accessibility education for online classrooms.
 
